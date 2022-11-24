@@ -37,6 +37,17 @@ Após executar o comando acima, abra o seu navegador e acesse o endereço:
 
 `http://127.0.0.1:5173/`
 
+Imagens da aplicação Desktop:
+
+<img
+src="https://github.com/Ciro-TI-System/DTMoney/Home.jpg"
+alt="Home page print"/>
+<img
+src="https://github.com/Ciro-TI-System/DTMoney/History.jpg"
+alt="Print of the History page"/>
+
+Imagens da aplicação Mobile:
+
 <img
 src="https://github.com/Ciro-TI-System/DTMoney/Home.jpg"
 alt="Home page print"/>
