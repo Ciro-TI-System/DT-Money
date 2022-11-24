@@ -40,20 +40,20 @@ Após executar o comando acima, abra o seu navegador e acesse o endereço:
 Imagens da aplicação Desktop:
 
 <img
-src="https://github.com/Ciro-TI-System/DTMoney/Home.jpg"
+src="https://github.com/Ciro-TI-System/DTMoney/blob/Visual-Structure/src/assets/%5BDesktop%5D%20Home.jpg"
 alt="Home page print"/>
 <img
-src="https://github.com/Ciro-TI-System/DTMoney/History.jpg"
-alt="Print of the History page"/>
+src="https://github.com/Ciro-TI-System/DTMoney/blob/Visual-Structure/src/assets/%5BDesktop%5D%20Nova%20Transa%C3%A7%C3%A3o.jpg"
+alt="Print of the new transaction page"/>
 
 Imagens da aplicação Mobile:
 
 <img
-src="https://github.com/Ciro-TI-System/DTMoney/Home.jpg"
+src="https://github.com/Ciro-TI-System/DTMoney/blob/Visual-Structure/src/assets/%5BMobile%5D%20Home.jpg"
 alt="Home page print"/>
 <img
-src="https://github.com/Ciro-TI-System/DTMoney/History.jpg"
-alt="Print of the History page"/>
+src="https://github.com/Ciro-TI-System/DTMoney/blob/Visual-Structure/src/assets/%5BMobile%5D%20Nova%20Transa%C3%A7%C3%A3o.jpg"
+alt="Print of the new transaction page"/>
 
 ## :memo: Licença
 
