@@ -20,6 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS (Styled Components)
 - Vite
+- Biblioteca de ícones (phosphor-react)t
 
 ## 💻 Projeto
 
