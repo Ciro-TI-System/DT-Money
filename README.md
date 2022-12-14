@@ -20,7 +20,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS (Styled Components)
 - Vite
-- Biblioteca de ícones (phosphor-react)t
+- Biblioteca de ícones (phosphor-react)
+- Biblioteca de UI com acessibilidade `RADIX` (dialog-react)
 
 ## 💻 Projeto
 
