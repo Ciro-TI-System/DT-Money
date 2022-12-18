@@ -22,6 +22,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Vite
 - Biblioteca de ícones (phosphor-react)
 - Biblioteca de UI com acessibilidade `RADIX` (dialog-react)
+`npm install @radix-ui/react-dialog`
+- Biblioteca de UI com acessibilidade `RADIX` (radio-react)
+`npm install @radix-ui/react-radio-group`
 
 ## 💻 Projeto
 
