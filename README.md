@@ -25,6 +25,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 `npm install @radix-ui/react-dialog`
 - Biblioteca de UI com acessibilidade `RADIX` (radio-react)
 `npm install @radix-ui/react-radio-group`
+- JSON Server (Comando: `npm run dev:server`)
+### Endereços:
+  Resources
+  `http://localhost:3333/transactions`
+
+  Home
+  `http://localhost:3333`
 
 ## 💻 Projeto
 
