@@ -26,16 +26,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Biblioteca de UI com acessibilidade `RADIX` (radio-react)
 `npm install @radix-ui/react-radio-group`
 - Biblioteca de formulários (react-hook-form) & (@hookform/resolvers)
-- Validação e Schema (zod)
-- JSON Server (Comando: `npm run dev:server`)
-
-### Endereços:
+- Biblioteca de Validação e Schema (zod)
+- JSON Server (Comando: `npm run dev:server`) e acesse os endereços:
+<div>
   Resources
   `http://localhost:3333/transactions`
 
   Home
   `http://localhost:3333`
-
+</div>
 
 ## 💻 Projeto
 
