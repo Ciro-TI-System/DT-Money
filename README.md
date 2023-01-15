@@ -20,8 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS (Styled Components)
 - Vite
-- Eslint (rocketseat-configuração)
-`npm i eslint @rocketseat/eslint-config -D`
+
 - Biblioteca de ícones (phosphor-react)
 - Biblioteca de UI com acessibilidade `RADIX` (dialog-react)
 `npm install @radix-ui/react-dialog`
@@ -40,6 +39,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   `http://localhost:3333`
 </div>
+
+- Eslint (rocketseat-configuração)
+`npm i eslint @rocketseat/eslint-config -D`
+- Bibliotecas (use-context-selector) e (scheduler)
+
 </br></br>
 
 ## 💻 Projeto
