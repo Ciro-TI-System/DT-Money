@@ -47,6 +47,14 @@
       "type": "outcome",
       "createdAt": "2023-01-13T14:28:07.073Z",
       "id": 6
+    },
+    {
+      "description": "Aplicativo Mobile",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-19T14:49:22.792Z",
+      "id": 7
     }
   ]
 }
