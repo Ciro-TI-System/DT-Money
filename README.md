@@ -73,8 +73,8 @@ alt="Print of the new transaction page"/>
 
 Demonstração de uso:
 
-<div class="video">
-    <iframe width="854" height="480" src="https://github.com/Ciro-TI-System/DTMoney/blob/main/src/assets/DT%20Money.mp4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<div>
+    <iframe width="720" height="480" src="https://github.com/Ciro-TI-System/DTMoney/blob/main/src/assets/DT%20Money.mp4" ></iframe>
 </div>
 
 Imagens da aplicação Mobile:
