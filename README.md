@@ -62,11 +62,6 @@ Após executar o comando acima, abra o seu navegador e acesse o endereço:
 
 `http://127.0.0.1:5173/`
 
-Demonstração de uso:
-
-<div class="video">
-    <iframe width="720" height="480" src="https://www.awesomescreenshot.com/video/14119271?key=9884f565d6b96d253d4427fdb3fb2f93" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
 
 Imagens da aplicação Desktop:
 
