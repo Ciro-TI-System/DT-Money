@@ -55,6 +55,14 @@
       "type": "income",
       "createdAt": "2023-01-19T14:49:22.792Z",
       "id": 7
+    },
+    {
+      "description": "Notebook HP",
+      "price": 3150,
+      "category": "Desenvolvimento",
+      "type": "outcome",
+      "createdAt": "2023-01-30T20:04:49.656Z",
+      "id": 8
     }
   ]
 }
